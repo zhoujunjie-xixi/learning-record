@@ -1,7 +1,6 @@
-__author__ = "Alex Li"
-
+# 要创建一个set，需要提供一个list作为输入集合：
 list_1 = [1,4,5,7,3,6,7,9]
-list_1 = set(list_1)
+list_1 = set(list_1)    # set变集合
 
 list_2 =set([2,6,0,66,22,8,4])
 print(list_1,list_2)
